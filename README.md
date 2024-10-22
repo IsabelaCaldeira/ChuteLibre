@@ -22,3 +22,7 @@ One of the problems we solve is the simulation of free fall. Free fall is the mo
 You can install the required libraries using:
 ```sh
 pip install numpy matplotlib
+```
+
+## Contributing
+If you are interested in a specific part, want more details, or found some mistakes, please send a merge request or open an issue, so we can chat about physics and code!
