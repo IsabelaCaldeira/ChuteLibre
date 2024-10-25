@@ -1,6 +1,6 @@
 # Physics with Python 👩‍💻 💙
 
-In this project, we aim to use Python and Jupyter Notebook to solve about free fall!
+In this project, we aim to use Python and Jupyter Notebook to solve a problem about Felix Baumagartner's free fall!
 
 ## Getting Started
 This project helps you get familiar with Jupyter Notebook and the libraries `matplotlib` and `numpy`. You'll learn how to process data and represent it graphically.
@@ -27,9 +27,6 @@ pip install numpy matplotlib
 ```
 
 ## Project Structure
-
-## Contributing
-If you are interested in a specific part, want more details, or found some mistakes, please send a merge request or open an issue, so we can chat about physics and code!
 
 ## Our objectives with details 
 - Part 1: Exploitation of Experimental Data
@@ -89,3 +86,6 @@ The project is divided into three main parts:
    - Plot the experimental and simulated velocity curves as functions of time and compare the maximum simulated velocity with the measured value.
    - Plot the histogram of relative errors between the experimental and simulated velocity curves.
    - Comment on the initial, zero, and final values of the acceleration curve.
+
+## Contributing
+If you are interested in a specific part, want more details, or found some mistakes, please send a merge request or open an issue, so we can chat about physics and code!
